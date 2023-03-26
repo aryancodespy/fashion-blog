@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    width: 80%;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+}
+.logo {
+    width: 100px;
+    border-radius: 50%;
+}
+
+#list {
+    list-style-type: none;
+    text-align: center;
+}
+
+#contact p{
+    display: flex;
+    flex-direction: column;
+}
+
+.title, p, ul{
+    font-family: 'Kalam', cursive;
+}
