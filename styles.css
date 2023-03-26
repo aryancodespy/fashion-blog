@@ -12,7 +12,8 @@ body {
 
 #list {
     list-style-type: none;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
 }
 
 #contact p{
@@ -23,3 +24,5 @@ body {
 .title, p, ul{
     font-family: 'Kalam', cursive;
 }
+
+
