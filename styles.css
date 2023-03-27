@@ -4,6 +4,7 @@ body {
     max-width: 500px;
     margin: auto;
     padding: 20px;
+    background: linear-gradient( #f7d6e0, #feddd5, #fcdfd7)
 }
 .logo {
     width: 100px;
@@ -14,6 +15,7 @@ body {
     list-style-type: none;
     display: flex;
     justify-content: space-between;
+    text-align: left;
 }
 
 #contact p{
@@ -25,4 +27,7 @@ body {
     font-family: 'Kalam', cursive;
 }
 
+a:hover {
+    color: #a8d1e7
+}
 
